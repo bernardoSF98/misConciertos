@@ -7,6 +7,8 @@
     <string name="genero_musical">Genero Musical</string>
     <string name="fecha">Fecha</string>
     <string name="calificacion">Calificacion</string>
+    <string name="ingrese_nombre1">ingrese nombre</string>
+    <string name="ingrese_valor1">ingrese valor</string>
     <string-array name="genero_musical">
         <item>Rock</item>
         <item>Jazz</item>
