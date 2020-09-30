@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="letraTitulo">26sp</dimen>
+    <dimen name="marginTopBase">20dp</dimen>
+    <dimen name="letraBase">24sp</dimen>
+    <dimen name="letraBoton">30sp</dimen>
+</resources>
