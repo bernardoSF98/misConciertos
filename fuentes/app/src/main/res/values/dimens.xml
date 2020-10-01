@@ -4,4 +4,5 @@
     <dimen name="marginTopBase">20dp</dimen>
     <dimen name="letraBase">24sp</dimen>
     <dimen name="letraBoton">30sp</dimen>
+    <dimen name="padding">5dp</dimen>
 </resources>

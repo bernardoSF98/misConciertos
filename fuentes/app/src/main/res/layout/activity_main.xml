@@ -144,9 +144,18 @@
         android:layout_marginTop="@dimen/marginTopBase"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"></Button>
-    //listView
-    <ListView
-        android:id="@+id/conciertosLv"
+    //listView personalizado
+    <LinearLayout
+        android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"></ListView>
+        android:layout_height="wrap_content">
+        <ListView
+            android:id="@+id/conciertosLv"
+            android:background="@color/colorVerde"
+            android:padding="@dimen/padding"
+            android:layout_marginTop="@dimen/marginTopBase"
+            android:layout_marginBottom="@dimen/marginTopBase"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></ListView>
+    </LinearLayout>
 </LinearLayout>
